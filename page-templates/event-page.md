@@ -4,6 +4,12 @@
 
 Helping visitors decide whether to attend and complete the next step.
 
+## Skeleton layout
+
+![Skeleton layout for an event page, showing desktop and mobile arrangements](../assets/page-templates/event-page.svg)
+
+On mobile, essential event details and the booking action move ahead of the longer description.
+
 ## Starter structure
 
 1. Event title and short summary

@@ -4,6 +4,12 @@
 
 Helping visitors select and obtain the right software, dataset, document or version.
 
+## Skeleton layout
+
+![Skeleton layout for a download or software page, showing desktop and mobile arrangements](../assets/page-templates/download-or-software-page.svg)
+
+Current downloads and their conditions stay together and precede installation help and release history.
+
 ## Starter structure
 
 1. Product or resource name

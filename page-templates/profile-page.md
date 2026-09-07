@@ -4,6 +4,12 @@
 
 Presenting one person's role, expertise, biography and relevant outputs.
 
+## Skeleton layout
+
+![Skeleton layout for a profile page, showing desktop and mobile arrangements](../assets/page-templates/profile-page.svg)
+
+The desktop layout may place the portrait and contact details beside the main narrative. On mobile, the person's identity and overview remain first.
+
 ## Starter structure
 
 1. Name and role

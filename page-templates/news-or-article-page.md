@@ -4,6 +4,12 @@
 
 Dated editorial content with an identifiable subject and publication context.
 
+## Skeleton layout
+
+![Skeleton layout for a news or article page, showing desktop and mobile arrangements](../assets/page-templates/news-or-article-page.svg)
+
+The article body uses a readable line length. Metadata stays with the headline and related material remains secondary.
+
 ## Starter structure
 
 1. Optional eyebrow or content type

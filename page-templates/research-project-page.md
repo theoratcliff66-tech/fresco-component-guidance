@@ -4,6 +4,12 @@
 
 Explaining a project's purpose, activity, people, outputs and opportunities to engage.
 
+## Skeleton layout
+
+![Skeleton layout for a research project page, showing desktop and mobile arrangements](../assets/page-templates/research-project-page.svg)
+
+The research purpose and current work lead. Organisational and funding information is retained but does not dominate the opening.
+
 ## Starter structure
 
 1. Project title and plain-language summary

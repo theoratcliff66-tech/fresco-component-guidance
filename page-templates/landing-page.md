@@ -4,6 +4,12 @@
 
 A genuine entry point where visitors need to choose among several substantial sections or tasks.
 
+## Skeleton layout
+
+![Skeleton layout for a landing page, showing desktop and mobile arrangements](../assets/page-templates/landing-page.svg)
+
+Primary routes come before promotional material. The mobile layout preserves that priority rather than following desktop position alone.
+
 ## Starter structure
 
 1. Page heading and concise introduction

@@ -4,6 +4,12 @@
 
 Routing visitors to the right person, team or channel with minimal effort.
 
+## Skeleton layout
+
+![Skeleton layout for a contact page, showing desktop and mobile arrangements](../assets/page-templates/contact-page.svg)
+
+Contact routes are grouped by visitor need rather than by the University's internal structure.
+
 ## Starter structure
 
 1. Page heading and brief scope

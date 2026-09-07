@@ -4,6 +4,12 @@
 
 Policies, guidance, service information and focused explanatory content.
 
+## Skeleton layout
+
+![Skeleton layout for a standard content page, showing desktop and mobile arrangements](../assets/page-templates/standard-content-page.svg)
+
+The main explanation uses a readable content width. Supporting links follow the primary content on smaller screens.
+
 ## Starter structure
 
 1. Page heading

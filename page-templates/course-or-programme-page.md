@@ -4,6 +4,12 @@
 
 Helping prospective participants understand, compare and act on an academic or professional programme.
 
+## Skeleton layout
+
+![Skeleton layout for a course or programme page, showing desktop and mobile arrangements](../assets/page-templates/course-or-programme-page.svg)
+
+Application information and deadlines remain prominent. Decision-critical facts are not buried beneath descriptive content.
+
 ## Starter structure
 
 1. Course title and concise proposition
